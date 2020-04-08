@@ -2,6 +2,8 @@
 	co = checkout
 	st = status
 	c = commit -m
+	br = branch
+	ff = diff
 	ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
 	ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
 [user]
