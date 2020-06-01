@@ -13,3 +13,5 @@
 	email = ibodnar@outlook.com
 [core]
 	editor = vim
+[pager]
+	branch = false
