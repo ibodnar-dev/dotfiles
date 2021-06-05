@@ -5,3 +5,4 @@ alias dc='docker-compose'
 # pipenv
 alias pe='pipenv'
 
+alias l='ls -Al'
