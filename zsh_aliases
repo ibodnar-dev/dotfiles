@@ -6,3 +6,4 @@ alias dc='docker-compose'
 alias pe='pipenv'
 
 alias l='ls -Al'
+alias pc='pacman'
