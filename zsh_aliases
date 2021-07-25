@@ -5,5 +5,8 @@ alias dc='docker-compose'
 # pipenv
 alias pe='pipenv'
 
+# poetry
+alias po='poetry'
+
 alias l='ls -Al'
 alias pc='pacman'
