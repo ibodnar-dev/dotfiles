@@ -8,5 +8,9 @@ alias pe='pipenv'
 # poetry
 alias po='poetry'
 
+# pyenv
+alias pv='pyenv'
+
 alias l='ls -Al'
 alias pc='pacman'
+
