@@ -13,6 +13,6 @@ alias pv='pyenv'
 
 # linux
 alias l='ls -Al'
-alias pn='pacman'
+alias pcn='pacman'
 alias pc='pamac'
 
