@@ -11,6 +11,8 @@ alias po='poetry'
 # pyenv
 alias pv='pyenv'
 
+# linux
 alias l='ls -Al'
-alias pc='pacman'
+alias pn='pacman'
+alias pc='pamac'
 
