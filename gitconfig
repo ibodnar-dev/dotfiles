@@ -11,7 +11,7 @@
 	logp = log --pretty=oneline
 [user]
 	name = ivan
-	email = ibodnar@outlook.com
+	email = ibodnar.dev@gmail.com 
 [core]
 	editor = vim
 	pager = less -F -X
