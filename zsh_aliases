@@ -2,9 +2,6 @@
 alias doc='docker'
 alias dc='docker-compose'
 
-# pipenv
-alias pe='pipenv'
-
 # poetry
 alias po='poetry'
 
@@ -13,10 +10,13 @@ alias pv='pyenv'
 
 # linux
 alias l='ls -Al'
-alias pcn='pacman'
+alias pac='pacman'
 alias pc='pamac'
 
 # k8s
 alias kl='kubectl'
 alias mk='minikube'
+
+# terraform
+alias tf='terraform'
 
