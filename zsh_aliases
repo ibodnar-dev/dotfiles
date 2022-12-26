@@ -17,6 +17,6 @@ alias pcn='pacman'
 alias pc='pamac'
 
 # k8s
-alias kc='kubectl'
+alias kl='kubectl'
 alias mk='minikube'
 
