@@ -11,7 +11,7 @@ alias pv='pyenv'
 # linux
 alias l='ls -Al'
 alias pac='pacman'
-alias pc='pamac'
+alias pam='pamac'
 
 # k8s
 alias kl='kubectl'
