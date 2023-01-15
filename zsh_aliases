@@ -10,6 +10,7 @@ alias pv='pyenv'
 
 # linux
 alias l='ls -Al'
+alias cl='clear'
 alias pac='pacman'
 alias pam='pamac'
 
@@ -19,4 +20,7 @@ alias mk='minikube'
 
 # terraform
 alias tf='terraform'
+
+# nvim
+alias nv='nvim'
 
